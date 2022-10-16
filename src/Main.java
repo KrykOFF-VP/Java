@@ -118,6 +118,7 @@ public class Main
                 a[j]=b[i];
                 j++;
             }
+
         }
         for(int i = j; i<a.length; i++){
             a[i]=k;
